@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon Ruby bug related to the unexpected output when combining assignment and puts. The bug.rb file shows the issue, and bugSolution.rb provides a solution and explanation.
